@@ -120,3 +120,5 @@ Therefore, build another model with the main objective of identifying important 
 After identifying important predictors, display them visually - you can use plots, summary tables etc. - whatever you think best conveys the importance of features.
 
 Finally, recommend strategies to manage customer churn based on your observations.
+
+Data Link: https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view
